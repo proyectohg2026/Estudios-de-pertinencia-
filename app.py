@@ -13,7 +13,7 @@ st.set_page_config(
 # Título y presentación
 st.title("🏥 Estudio de Pertinencia - Enfermería Profesional")
 st.markdown("""
-### Universidad/Institución [Nombre de tu institución]
+### Fundación Universitaria Maria Cano, sede Cali
 **Objetivo:** Evaluar la viabilidad de apertura del programa de Enfermería Profesional en Cali y municipios aledaños.
 
 Sus respuestas son fundamentales para alinear la formación académica con las necesidades del sector salud.
